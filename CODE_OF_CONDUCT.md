@@ -2,23 +2,25 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
+In the interest of remaining focused on the continued forward progress of society, we as
 contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
+our community and our work a politically-unburdoned experience for everyone; regardless 
+of age, body size, disability, ethnicity, sex characteristics, gender identity and expression,
 level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+appearance, race, religion, or sexual identity and orientation, there are more 
+relevant and adequate forums to present and discuss these topics from a socio-political
+standpoint.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment
+Examples of behavior that contributes to creating a productive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Using straightforward language to convey topics to the broadest possible audience
+* Being respectful of differing viewpoints and experiences so long as they are on-task
+* Gracefully accepting constructive work-related criticism
+* Focusing on what is best for the project, per a clearly-defined set of technical standards
+* Showing empathy towards other community members, but asserting boundaries as necessary
 
 Examples of unacceptable behavior by participants include:
 
@@ -28,6 +30,7 @@ Examples of unacceptable behavior by participants include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
  address, without explicit permission
+* Mob action, brigading, cancelling, 
 * Other conduct which could reasonably be considered inappropriate in a
  professional setting
 
